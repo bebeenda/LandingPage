@@ -1,0 +1,31 @@
+json
+
+{
+  "faq": [
+    {
+      "id": 1,
+      "pergunta": "Como posso rastrear o meu pedido?",
+      "resposta": "Após a confirmação do pagamento, você receberá um e-mail com o código de rastreamento. Acesse o site da transportadora ou a seção 'Meus Pedidos' em sua conta para acompanhar o status da entrega em tempo real."
+    },
+    {
+      "id": 2,
+      "pergunta": "Quais são as formas de pagamento aceitas?",
+      "resposta": "Aceitamos cartão de crédito (Visa, Mastercard, Elo, American Express), boleto bancário, Pix e carteira digital. Parcelamos em até 12x no cartão de crédito, sujeito a juros a partir da 2ª parcela."
+    },
+    {
+      "id": 3,
+      "pergunta": "Qual é o prazo de entrega?",
+      "resposta": "O prazo de entrega varia conforme a sua localização e o método de envio escolhido. Em geral, entregas para capitais levam de 3 a 5 dias úteis, e para demais regiões de 5 a 10 dias úteis após a confirmação do pagamento."
+    },
+    {
+      "id": 4,
+      "pergunta": "Como faço para trocar ou devolver um produto?",
+      "resposta": "Você tem até 7 dias corridos após o recebimento para solicitar troca ou devolução, conforme o Código de Defesa do Consumidor. Acesse 'Meus Pedidos', selecione o item desejado e clique em 'Solicitar Troca/Devolução'. Nossa equipe entrará em contato em até 2 dias úteis."
+    },
+    {
+      "id": 5,
+      "pergunta": "Meus dados estão seguros ao comprar no site?",
+      "resposta": "Sim! Utilizamos criptografia SSL em todas as transações e seguimos as diretrizes da LGPD (Lei Geral de Proteção de Dados). Seus dados pessoais e financeiros nunca são compartilhados com terceiros sem o seu consentimento."
+    }
+  ]
+}
